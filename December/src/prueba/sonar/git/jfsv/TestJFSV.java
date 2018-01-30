@@ -1,4 +1,4 @@
-package prueba.sonar.git.jfsv;
+package src.prueba.sonar.git.jfsv;
 
 public class TestJFSV {
 
