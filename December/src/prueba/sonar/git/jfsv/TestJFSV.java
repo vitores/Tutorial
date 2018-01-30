@@ -4,6 +4,8 @@ public class TestJFSV {
 
     public static void main(String[] args) {
         System.out.println(" world and  jose francisco");
+        
+        String cadena = "esto es una prueba";
     }
 
 }
