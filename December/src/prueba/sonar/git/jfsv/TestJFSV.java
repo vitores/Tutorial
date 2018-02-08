@@ -15,5 +15,9 @@ public class TestJFSV {
     }
     
     public void kk();
+    
+    publi boolean exits() {
+        return true;
+    }
 
 }
