@@ -5,4 +5,8 @@ public class Test2JFSV {
     public String getName() {
         return Test2JFSV.class.toString();
     }
+    
+    public boolean exits() {
+        return true;
+    }
 }
