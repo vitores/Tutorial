@@ -6,9 +6,5 @@ public class TestJFSV {
         String cadena = "prueba";
         System.out.println("Valor: " + cadena);
     }
-    
-    public boolean exits() {
-        return true;
-    }
-    
+       
 }
