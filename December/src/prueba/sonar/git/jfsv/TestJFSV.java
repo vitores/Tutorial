@@ -7,8 +7,5 @@ public class TestJFSV {
         System.out.println("Valor: " + cadena);
     }
     
-    public boolean exits() {
-        return true;
-    }
     
 }
