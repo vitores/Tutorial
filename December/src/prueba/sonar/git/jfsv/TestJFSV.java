@@ -7,9 +7,7 @@ public class TestJFSV {
         System.out.println(" world and  jose francisco");
         
     }
-    
-    public static void kk() {
-    }
+   
     
     public boolean exits() {
         return true;
