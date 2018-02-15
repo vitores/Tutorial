@@ -12,9 +12,7 @@ public class TestJFSV {
         cadena = "";
         
     }
-    
-    public static void kk() {
-    }
+   
     
     public boolean exits() {
         return true;
