@@ -6,8 +6,5 @@ public class TestJFSV {
         System.out.println(" world and  jose francisco");
     }
     
-    public boolean exits() {
-        return true;
-    }
     
 }
