@@ -3,7 +3,8 @@ package src.prueba.sonar.git.jfsv;
 public class TestJFSV {
     
     public static void main(String[] args) {
-        System.out.println(" world and  jose francisco");
+        String cadena = "prueba";
+        System.out.println("Valor: " + cadena);
     }
     
     public boolean exits() {
