@@ -1,2 +1,5 @@
 
-public class NewTest {}
+public class NewTest {
+
+public void abc() {}
+}
